@@ -4,6 +4,7 @@
 @section('content')
 
 <main class="main">
+  <!-- add my js , css  -->
 
   <!-- Page Title -->
   <div class="page-title">
