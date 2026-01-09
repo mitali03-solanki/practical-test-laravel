@@ -9,7 +9,7 @@
     <!-- Favicons -->
     <!-- <link href="{{ asset('assets/img/favicon.png') }}" rel="icon">
     <link href="{{ asset('assets/img/apple-touch-icon.png') }}" rel="apple-touch-icon"> -->
-    
+
     <!-- Fonts -->
     <link href="https://fonts.googleapis.com" rel="preconnect">
     <link href="https://fonts.gstatic.com" rel="preconnect" crossorigin>
@@ -24,6 +24,8 @@
     <link href="{{ asset('assets/vendor/swiper/swiper-bundle.min.css') }}" rel="stylesheet">
     <link href="{{ asset('assets/vendor/drift-zoom/drift-basic.css') }}" rel="stylesheet">
     <link href="{{ asset('assets/css/main.css') }}" rel="stylesheet">
+    <!-- custom css -->
+    <link href="{{ asset('assets/css/custom.css') }}" rel="stylesheet">
 </head>
 
 <body class="@yield('body-class')">
@@ -52,6 +54,8 @@
     <script src="{{ asset('assets/vendor/swiper/swiper-bundle.min.js') }}"></script>
     <script src="{{ asset('assets/vendor/drift-zoom/Drift.min.js') }}"></script>
     <script src="{{ asset('assets/js/main.js') }}"></script>
+    <!-- custom js -->
+    <script src="{{ asset('assets/js/custome.js') }}"></script>
 
 </body>
 

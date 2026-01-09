@@ -1,0 +1,34 @@
+/* .navmenu .active:focus {
+    color: #c51fc0;
+} */
+.header .btn-getstarted {
+    background: #c51fc0;
+    color: #fff;
+    padding: 10px 30px;
+    border-radius: 50px;
+    transition: background 0.3s ease-in-out;
+}
+
+.header .btn-getstarted:hover {
+    background: #a01799;
+    color: #fff;
+}
+
+/*  for header   .header.header-container {} */
+
+.hero .hero-badge {
+    background: #c51fc0;
+    color: #fff;
+}
+.hero .hero-badge:hover {
+    background: #a01799;
+    color: #fff;
+}
+.hero .search-form .btn-search {
+    background: #c51fc0;
+    color: #fff;
+}
+.hero .search-form .btn-search:hover {
+    background: #a01799;
+    color: #fff;
+}
